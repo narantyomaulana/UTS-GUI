@@ -13,9 +13,11 @@ Narantyo Maulana Adhi Nugraha (19104048)
 
 # Clear
 Sebelum Clear
+
 ![enter image description here](https://i.ibb.co/3dLv5PX/4.png)
 
 Sesudah Clear
+
 ![enter image description here](https://i.ibb.co/CMxBxxc/5.png)
 
 # Hapus
