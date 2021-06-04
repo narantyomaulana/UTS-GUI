@@ -5,10 +5,17 @@ Narantyo Maulana Adhi Nugraha (19104048)
 # Tambah Data
 ![enter image description here](https://i.ibb.co/rdRwRZK/1.png)
 
-# Edit Data 
+# Edit Data Jurusan
 ![enter image description here](https://i.ibb.co/3C2SJbn/2.png)
 
-# Edit Data Jurusan
+# Hasil Edit Data Jurusan
 ![enter image description here](https://i.ibb.co/nksKyF8/3.png)
 
-#
+# Clear
+Sebelum Clear
+![enter image description here](https://i.ibb.co/3dLv5PX/4.png)
+
+Sesudah Clear
+![enter image description here](https://i.ibb.co/CMxBxxc/5.png)
+
+# Hapus
