@@ -5,9 +5,6 @@ Narantyo Maulana Adhi Nugraha (19104048)
 # Tambah Data
 ![enter image description here](https://i.ibb.co/rdRwRZK/1.png)
 
-# Db Diagram Cars
-![enter image description here](https://i.ibb.co/99W8gZ6/db-diagram-cars.png)
-
 # Edit Data Jurusan
 ![enter image description here](https://i.ibb.co/3C2SJbn/2.png)
 
